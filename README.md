@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @prammos
 - 👀 I’m interested in Machine Learning, Data Science, Reinforcement Learning
 - 🌱 I’m currently learning MLOps
-- 💞️ I’m looking to collaborate on ... open ti suggestions
+- 💞️ I’m looking to collaborate on ... open to suggestions
 - 📫 How to reach me ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
